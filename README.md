@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Rudranil Das</h1>
+<h1 align="center">Hey 👋, I'm Rudranil Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/017/202/411/original/animated-online-coding-course-programming-language-loop-flat-2d-character-hd-footage-colorful-isolated-animation-on-white-background-with-alpha-channel-transparency-for-website-social-media-video.jpg">
